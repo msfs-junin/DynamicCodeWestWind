@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DynamicCompilation</name>
+    </assembly>
+    <members>
+        <member name="T:DynamicCompilation.BasicExecution">
+            <summary>
+            Summary description for BasicExecution.
+            </summary>
+        </member>
+        <member name="F:DynamicCompilation.BasicExecution.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.BasicExecution.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.BasicExecution.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DynamicCompilation.Form1">
+            <summary>
+            Summary description for Form1.
+            </summary>
+        </member>
+        <member name="F:DynamicCompilation.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.Form1.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:DynamicCompilation.wwAspScriptingForm">
+            <summary>
+            Summary description for wwAspScriptingForm.
+            </summary>
+        </member>
+        <member name="F:DynamicCompilation.wwAspScriptingForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.wwAspScriptingForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.wwAspScriptingForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DynamicCompilation.wwScriptingForm">
+            <summary>
+            Summary description for wwScriptingForm.
+            </summary>
+        </member>
+        <member name="F:DynamicCompilation.wwScriptingForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.wwScriptingForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:DynamicCompilation.wwScriptingForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

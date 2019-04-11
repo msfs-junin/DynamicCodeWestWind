@@ -1,0 +1,17 @@
+C:\Users\marcelo.sabato\Desktop\dynamicCode\bin\Debug\DynamicCompilation.exe
+C:\Users\marcelo.sabato\Desktop\dynamicCode\bin\Debug\DynamicCompilation.pdb
+C:\Users\marcelo.sabato\Desktop\dynamicCode\bin\Debug\wwscripting.xml
+C:\Users\marcelo.sabato\Desktop\dynamicCode\bin\Debug\RemoteLoader.dll
+C:\Users\marcelo.sabato\Desktop\dynamicCode\bin\Debug\wwScripting.dll
+C:\Users\marcelo.sabato\Desktop\dynamicCode\bin\Debug\RemoteLoader.pdb
+C:\Users\marcelo.sabato\Desktop\dynamicCode\bin\Debug\wwScripting.pdb
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.csprojAssemblyReference.cache
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.BasicExecution.resources
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.Form1.resources
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.wwAspScriptingForm.resources
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.wwScriptingForm.resources
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.csproj.GenerateResource.cache
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.csproj.CopyComplete
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.exe
+C:\Users\marcelo.sabato\Desktop\dynamicCode\obj\Debug\DynamicCompilation.pdb
